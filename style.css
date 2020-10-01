@@ -221,7 +221,7 @@ h1::after{
     transition: 0.5s;
 }
 
-/*-------------Promo------------*/
+/*--------------------------------------Promo----------------------------------------*/
 #promo{
     background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(images/digital-marketing-.png);
     background-size: cover;
@@ -236,7 +236,7 @@ h1::after{
     font-weight: bold;
 }
 
-/*---------Price Plan------------*/
+/*-------------------------------------Price Plan----------------------------------*/
 #price{
     padding: 40px;
     background: #efefef;
@@ -333,7 +333,7 @@ a{
     color: #fff !important;
 }
 
-/*---------------------------Testimonials--------------------------*/
+/*-------------------------------------Testimonials-------------------------------------*/
 #testimonials{
     padding-top: 50px;
     padding-bottom: 50px;
